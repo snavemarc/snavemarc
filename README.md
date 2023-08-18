@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @snavemarc
-- 👀 I’m interested in iOS development 
-- 🌱 I’m currently learning Swift (This is my first language)
-- 💞️ I’m looking to collaborate on (Currently too early but would love to collborate on iOS development in the future)
-- 📫 You can reach me via X @snavemarc
+# coe7e4cf0b2adc19a4e559f82
 
-<!---
-snavemarc/snavemarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quick start:
 
+```
+$ npm install
+$ npm start
+````
+
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
+
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
